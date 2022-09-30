@@ -21,7 +21,7 @@ itsdangerous==1.1.0
 jedi==0.17.0
 Jinja2==2.11.2
 jmespath==0.9.5
-joblib==0.14.1
+joblib==1.2.0
 kappa==0.6.0
 MarkupSafe==1.1.1
 numpy==1.18.3
